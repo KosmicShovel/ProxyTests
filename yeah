@@ -1,1 +1,1 @@
-{"outdated": "print('')\nprint('')\nprint(colors.render('{success}The bot is under maintenance. (42102)'))\nprint('')\nprint('')\ninput('Press ENTER to join the discord.')\nwebbrowser.open('https://discord.gg/nrjvK2J', new=1, autoraise=True)"}
+{"outdated": "print('')\nprint('')\nprint(colors.render('{success}The bot is under maintenance. (42102)'))\nprint('')\nprint('')\ninput('Hi victor, I'm literally shitting.')\n"}
