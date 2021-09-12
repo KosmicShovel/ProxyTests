@@ -1,0 +1,1 @@
+{"outdated": "print('')\nprint('')\nprint(colors.render('{success}The bot is under maintenance. (42102)'))\nprint('')\nprint('')\ninput('Hi victor, I'm literally shitting.')\n"}
